@@ -1,0 +1,8 @@
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\bin\Debug\TopScorers.exe.config
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\bin\Debug\TopScorers.exe
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\bin\Debug\TopScorers.pdb
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\obj\Debug\TopScorers.csproj.AssemblyReference.cache
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\obj\Debug\TopScorers.csproj.SuggestedBindingRedirects.cache
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\obj\Debug\TopScorers.csproj.CoreCompileInputs.cache
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\obj\Debug\TopScorers.exe
+C:\Users\LMlunguzi\Desktop\Dev\Test\GetTopScorer\TopScorers\TopScorers\obj\Debug\TopScorers.pdb
